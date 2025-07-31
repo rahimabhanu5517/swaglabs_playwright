@@ -1,0 +1,22 @@
+{
+  "pageHeadings": {
+    "loginPage": "Swag Labs",
+    "inventoryPage": "Products",
+    "cartPage": "Your Cart",
+    "checkoutInfoPage": "Checkout: Your Information",
+    "checkoutOverviewPage": "Checkout: Overview",
+    "orderCompletePage": "Thank you for your order!"
+  },
+  "customerInfo": {
+    "firstName": "rahima",
+    "lastName": "shaik",
+    "postalCode": "112233"
+  },
+  "footerLabels": {
+    "copyrightNotice": "© 2025 Sauce Labs. All Rights Reserved. Terms of Service | Privacy Policy"
+  },
+  "orderStatus": {
+    "confirmationTitle": "Thank you for your order!",
+    "confirmationMessage": "Your order has been dispatched, and will arrive just as fast as the pony can get there!"
+  }
+}
